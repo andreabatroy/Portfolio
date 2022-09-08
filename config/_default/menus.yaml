@@ -4,9 +4,9 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Accueil
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: CV
+    url: a-propos/
     weight: 20
