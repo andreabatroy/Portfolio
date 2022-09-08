@@ -29,7 +29,7 @@ content:
     - name: Tout
       tag: '*'
     - name: Danse
-      tag: DA
+      tag: Danse
     - name: Soins énergétiques
       tag: SE
     - name: NLP
