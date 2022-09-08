@@ -10,3 +10,9 @@ main:
   - name: CV
     url: a-propos/
     weight: 20
+  - name: Danse
+    url: /
+    weight: 30
+  - name: Soins énergétiques
+    url: /
+    weight: 40
