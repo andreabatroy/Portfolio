@@ -11,8 +11,8 @@ main:
     url: a-propos/
     weight: 20
   - name: Danse
-    url: /
+    url: /#danse
     weight: 30
   - name: Soins énergétiques
-    url: /
+    url: /#soins-energetiques
     weight: 40
