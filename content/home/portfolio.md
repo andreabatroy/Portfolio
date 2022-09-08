@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Danse
       tag: Danse
-    - name: Soins énergétiques
-      tag: SE
     - name: Écriture
       tag: Ecriture
+    - name: Soins énergétiques
+      tag: SE
 
 design:
   columns: '1'
