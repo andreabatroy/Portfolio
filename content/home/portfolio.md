@@ -32,8 +32,8 @@ content:
       tag: Danse
     - name: Soins énergétiques
       tag: SE
-    - name: NLP
-      tag: NLP
+    - name: Écriture
+      tag: Ecriture
 
 design:
   columns: '1'
