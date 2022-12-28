@@ -3,7 +3,7 @@ title: Soins énergétiques
 summary: Reiki -- Antenne de Lecher
 tags:
   - SE
-date:
+date: 2023-01-01
 external_link:
 ---
 **Antenne de Lecher**
