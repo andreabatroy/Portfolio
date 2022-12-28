@@ -6,4 +6,4 @@ tags:
 date: 2022-01-01
 external_link:
 ---
-Soins énergétiques
+**Soins énergétiques Reiki**
