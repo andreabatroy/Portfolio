@@ -63,4 +63,6 @@ social:
 #email: ""
 ---
 
-Je suis un artiste de l'Être. Je vous accompagne dans votre bien-être
+Je suis un artiste de l'Être. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être et votre capacité à créer la vie de vos rêves.
+
+Par une alchimie de soins personnalisés -- reiki, recentrement des énergies, harmonisation à tous les niveaux, Antenne de Lecher -- je suis disponible pour vous !
