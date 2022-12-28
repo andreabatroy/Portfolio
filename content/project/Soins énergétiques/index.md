@@ -7,3 +7,5 @@ date: 2022-01-01
 external_link:
 ---
 **Soins énergétiques Reiki**
+
+**Harmonisation énergétique avec l'antenne de Lecher**
