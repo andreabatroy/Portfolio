@@ -1,6 +1,6 @@
 ---
 title: Soins énergétiques
-summary: Reiki, Antenne de Lecher
+summary: Reiki, Antenne de Lecher, Technique du Vide MT
 tags:
   - SE
 date: 2022-01-01
