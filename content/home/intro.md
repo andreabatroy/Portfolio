@@ -19,6 +19,8 @@ author: admin
 ---
 
 Je suis **André Abat-Roy**, thérapeute énergétique.
-J'offre des services de soins énergétiques personnalisés. Vous trouverez ici tout ce dont vous avez besoin pour augmenter votre bien-être.
+J'offre des services de soins énergétiques personnalisés.
+
+Vous trouverez ici tout ce dont vous avez besoin pour augmenter votre bien-être.
 Bienvenue !
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
