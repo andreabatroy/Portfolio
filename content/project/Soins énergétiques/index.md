@@ -6,6 +6,12 @@ tags:
 date: 2022-01-01
 external_link:
 ---
+**Antenne de Lecher**
+
+harmonisation
+
+recentrement des énergies
+
 **Soins énergétiques Reiki**
 
-**Harmonisation énergétique avec l'antenne de Lecher**
+traitement
