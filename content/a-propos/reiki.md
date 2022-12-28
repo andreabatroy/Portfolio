@@ -1,13 +1,13 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: education
+widget: reiki
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 30
 
 title: Education
 subtitle:
