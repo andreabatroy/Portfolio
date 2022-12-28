@@ -11,5 +11,5 @@ main:
     url: a-propos/
     weight: 20
   - name: Services
-    url: /#soins-energetiques
+    url: /project/soins-energetiques/
     weight: 30
