@@ -1,6 +1,6 @@
 ---
 title: Soins énergétiques
-summary: Soins Reiki, recentrement des énergies.
+summary: Reiki, Antenne de Lecher
 tags:
   - SE
 date: 2022-01-01
@@ -12,6 +12,6 @@ external_link:
 
 - recentrement des énergies
 
-**Soins énergétiques Reiki**
+**Reiki**
 
-- traitement
+- traitement pour tous troubles ou problèmes
