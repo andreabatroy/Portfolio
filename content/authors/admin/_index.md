@@ -6,7 +6,7 @@ title: André Abat-Roy
 superuser: true
 
 # Role/position
-role: ''
+role:
 
 # Status emoji
 status:
