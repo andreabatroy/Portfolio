@@ -15,3 +15,4 @@ external_link:
 **Reiki**
 
 - traitement complet
+- besoins spécifiques et généraux
