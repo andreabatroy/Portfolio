@@ -27,7 +27,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: Soins énergétiques
-      tag: SE
+      tag: Soins énergétiques
 
 design:
   columns: '1'
