@@ -1,6 +1,6 @@
 ---
 title: Soins énergétiques
-summary: Reiki -- Antenne de Lecher -- Harmonisation de l'Être
+summary: Reiki -- Antenne de Lecher -- Harmonisation
 tags:
   - Soins énergétiques
 date: 2022-12-28
@@ -15,4 +15,3 @@ external_link:
 **Reiki**
 
 - traitement complet
-- besoins spécifiques et généraux
