@@ -8,10 +8,10 @@ external_link:
 ---
 **Antenne de Lecher**
 
-harmonisation
+- harmonisation
 
-recentrement des énergies
+- recentrement des énergies
 
 **Soins énergétiques Reiki**
 
-traitement
+- traitement
