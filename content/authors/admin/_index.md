@@ -63,17 +63,17 @@ social:
 #email: ""
 ---
 
-Je suis un artiste de l'Être. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être.
+Je suis un **artiste de l'Être**. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être.
 
-Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : reiki, antenne de Lecher, recentrement des énergies, harmonisation physique, mentale, émotionnelle, énergétique et spirituelle.
+Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : **reiki, antenne de Lecher, recentrement des énergies, harmonisation physique, mentale, émotionnelle, énergétique et spirituelle**.
 
 **Pour me contacter :**
 
 
-André Abat-Roy, thérapeute énergétique
+**André Abat-Roy**, thérapeute énergétique
 
 Verdun, Montréal
 
 418-925-8487
 
-andreabatroy.com
+*andre.abatroy@gmail.com*
