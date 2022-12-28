@@ -71,6 +71,9 @@ Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : reiki, Ante
 
 
 André Abat-Roy, thérapeute énergétique
+
 Verdun, Montréal
+
 418-925-8487
+
 andreabatroy.com
