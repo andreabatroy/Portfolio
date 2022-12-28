@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Je suis artiste et énergéticien.
+bio:
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,10 @@ bio: Je suis artiste et énergéticien.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 'mailto:andre.abatroy@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/jesuisandreabatroy
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
