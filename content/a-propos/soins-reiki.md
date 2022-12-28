@@ -1,15 +1,15 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: soins-reiki
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
-title: Education
+title: Soins reiki
 subtitle:
 
 # Date format for experience
