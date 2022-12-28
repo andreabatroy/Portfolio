@@ -15,3 +15,5 @@ external_link:
 **Reiki**
 
 - traitement complet
+- besoins spécifiques
+- physique, mental, émotionnel, énergétique et spirituel
