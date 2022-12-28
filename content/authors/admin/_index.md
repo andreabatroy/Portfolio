@@ -66,3 +66,11 @@ social:
 Je suis un artiste de l'Être. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être.
 
 Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : reiki, Antenne de Lecher, recentrement des énergies, harmonisation physique, mentale, émotionnelle, énergétique et spirituelle.
+
+**Me contacter**
+
+
+André Abat-Roy, thérapeute énergétique
+Verdun, Montréal
+418-925-8487
+andreabatroy.com
