@@ -44,7 +44,7 @@ bio:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:andre.abatroy@gmail.com # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:andre.abatroy@gmail.com" # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/jesuisandreabatroy
