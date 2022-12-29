@@ -23,8 +23,7 @@ Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : **reiki, an
 **Reiki**
 
 - traitement complet
-- besoins spécifiques
-- physique, mental, émotionnel, énergétique et spirituel
+- besoins physique, mental, émotionnel, énergétique et spirituel
 
 
 ----------
