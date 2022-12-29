@@ -69,3 +69,6 @@ Artiste multidisciplinaire en danse, écriture, musique et performance, **Andre
 Toujours à la recherche de la perméabilité de ses langues multiples, sa démarche établit des ponts entre le mouvement, l’écriture, la musique et le moment présent. Il s’intéresse, dans son travail chorégraphique et performatif, au corps comme outil de transmutation et de guérison.
 
 Parallèlement à sa carrière d'artiste, il oeuvre comme thérapeute énergétique. Il crée une puissante alchimie avec ses outils énergétiques de prédilection : le Reiki, l'antenne de Lecher et la technique du Vide MT.
+
+----------
+crédit photo portrait : Julie Artacho
