@@ -7,7 +7,7 @@ date: 2022-12-28
 external_link:
 ---
 
-Je suis un **artiste de l'Être** multidisciplinaire : danseur, écrivain et musicien.
+Je suis un **artiste de l'Être** : danseur, écrivain et musicien.
 
 
 **Danse**
