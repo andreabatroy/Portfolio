@@ -12,6 +12,8 @@ Je suis un **artiste de l'Être** multidisciplinaire : danseur, écrivain et mus
 
 **Danse**
 
+*States of body produced by an emergency* par Charlie Prince présenté à Tangente Danse, Montréal du 7 au 10 décembre 2022.
+
 **Écriture**
 
 *moustiquaire et krazy glue*
@@ -20,6 +22,7 @@ https://www.leslibraires.ca/livres/moustiquaire-et-krazy-glue-andre-abat-roy-978
 
 **Musique**
 
+*Créations*
 Soundcloud:
 https://soundcloud.com/andre-abat-roy?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
