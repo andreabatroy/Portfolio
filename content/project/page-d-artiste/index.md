@@ -1,6 +1,6 @@
 ---
-title: Page d'Artiste
-summary: Danseur -- Écrivain -- Musicien
+title: Artiste
+summary: Danseur -- Écrivain -- Musicien -- Multidisciplinaire
 tags:
   - Page d'Artiste
 date: 2022-12-28
