@@ -70,7 +70,7 @@ Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : **reiki, an
 **Pour me contacter :**
 
 
-**André Abat-Roy**, thérapeute énergétique
+**André Abat-Roy**
 
 Verdun, Montréal
 
