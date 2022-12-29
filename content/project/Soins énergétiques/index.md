@@ -5,7 +5,6 @@ tags:
   - Soins énergétiques
 date: 2022-12-28
 external_link:
-subtext: crédit photo: Maxime Côté
 ---
 
 Je suis un **artiste de l'Être**. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être.
@@ -38,3 +37,6 @@ Verdun, Montréal
 418-925-8487
 
 *andre.abatroy@gmail.com*
+
+-----
+crédit photo: Maxime Côté
