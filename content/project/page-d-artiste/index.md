@@ -35,8 +35,6 @@ https://soundcloud.com/andre-abat-roy?utm_source=clipboard&utm_medium=text&utm_c
 
 **André Abat-Roy**
 
-Verdun, Montréal
-
 418-925-8487
 
 *andre.abatroy@gmail.com*
