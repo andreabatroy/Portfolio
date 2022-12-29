@@ -1,15 +1,14 @@
 ---
-title: Page d'artiste
-summary: Reiki -- Antenne de Lecher -- Harmonisation
+title: Page d'Artiste
+summary: Danseur -- Écrivain -- Musicien
 tags:
-  - Page d'artiste
+  - Page d'Artiste
 date: 2022-12-28
 external_link:
 ---
 
-Je suis un **artiste de l'Être**. Je vous accompagne dans la création de votre vie, en augmentant votre mieux-être.
+Je suis un **artiste de l'Être**. Je suis un artiste multidisciplinaire : danseur, écrivain et musicien.
 
-Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : **reiki, antenne de Lecher, recentrement des énergies, harmonisation** physique, mentale, émotionnelle, énergétique et spirituelle.
 
 **Pour me contacter :**
 
@@ -22,18 +21,15 @@ Verdun, Montréal
 
 *andre.abatroy@gmail.com*
 
+**Danse**
 
+**Écriture**
 
-**Description des soins**
+*moustiquaire et krazy glue*
+Publié aux Éditions Hashtag (2022)
+https://www.leslibraires.ca/livres/moustiquaire-et-krazy-glue-andre-abat-roy-9782924936306.html
 
-**Antenne de Lecher**
+**Musique**
 
-- harmonisation
-
-- recentrement des énergies
-
-**Reiki**
-
-- traitement complet
-- besoins spécifiques
-- physique, mental, émotionnel, énergétique et spirituel
+Soundcloud:
+https://soundcloud.com/andre-abat-roy?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
