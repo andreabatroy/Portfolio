@@ -71,4 +71,4 @@ Toujours à la recherche de la perméabilité de ses langues multiples, sa de
 Parallèlement à sa carrière d'artiste, il oeuvre comme thérapeute énergétique. Il crée une puissante alchimie avec ses outils énergétiques de prédilection : le Reiki, l'antenne de Lecher et la technique du Vide MT.
 
 ----------
-crédit photo portrait : Julie Artacho
+crédit photo : Julie Artacho
