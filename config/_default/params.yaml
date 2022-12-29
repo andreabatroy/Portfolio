@@ -42,6 +42,7 @@ header:
 footer:
   copyright:
     notice: '© {year} André Abat-Roy. Tous droits réservés.'
+    'crédits photos: Julie Artacho. Maxime Côté.'
     license:
       enable: true
       allow_derivatives: false
