@@ -28,6 +28,8 @@ content:
   filter_button:
     - name: Soins énergétiques
       tag: Soins énergétiques
+    - name: Artiste
+      tag: Artiste
 
 design:
   columns: '1'
