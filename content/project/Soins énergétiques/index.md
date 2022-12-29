@@ -12,7 +12,7 @@ Je suis un **artiste de l'Être**. Je vous accompagne dans la création de votre
 Rendez-vous dans une alchimie de soins à l'écoute de vos besoins : **reiki, antenne de Lecher, recentrement des énergies, harmonisation** physique, mentale, émotionnelle, énergétique et spirituelle.
 
 -----------
-**Description des soins**
+**Description des soins :**
 
 **Antenne de Lecher**
 
