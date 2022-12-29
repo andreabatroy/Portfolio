@@ -12,21 +12,15 @@ Je suis un **artiste de l'Être** : danseur, écrivain et musicien.
 
 **Danse**
 
-*States of body produced by an emergency* par Charlie Prince
+*States of body produced by an emergency* par Charlie Prince présenté à Tangente Danse, Montréal du 7 au 10 décembre 2022.
 
-Présenté à Tangente Danse, Montréal du 7 au 10 décembre 2022.
-
-----------
 
 **Écriture**
 
-*moustiquaire et krazy glue*
-
-Publié aux Éditions Hashtag (2022)
+*moustiquaire et krazy glue* publié aux Éditions Hashtag (2022)
 
 https://www.leslibraires.ca/livres/moustiquaire-et-krazy-glue-andre-abat-roy-9782924936306.html
 
------------
 
 **Musique**
 
