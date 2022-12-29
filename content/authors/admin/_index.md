@@ -64,8 +64,8 @@ social:
 ---
 
 
-Artiste multidisciplinaire en danse, écriture, musique et performance, André Abat-Roy choisitd'affiner ses techniques performatives à l'École de danse contemporaine de Montréal d'où il obtient un diplôme en 2022. Au fil de son parcours, il a la chance de travailler auprès de chorégraphes et enseignant.es qui marquent son imaginaire dont Lucie Grégoire, Marc Boivin, Alexandre Morin et Linda Rabin. Au printemps 2022, il publie chez les Éditions Hashtag son premier recueil de poésie intitulé moustiquaire et krazy glue.
+Artiste multidisciplinaire en danse, écriture, musique et performance, **André Abat-Roy** choisit d'affiner ses techniques performatives à l'**École de danse contemporaine de Montréal** d'où il obtient un diplôme en 2022. Au fil de son parcours, il a la chance de travailler auprès de chorégraphes et enseignant.es qui marquent son imaginaire dont Lucie Grégoire, Marc Boivin, Alexandre Morin et Linda Rabin. Au printemps 2022, il publie chez les Éditions Hashtag son premier recueil de poésie intitulé *moustiquaire et krazy glue*.
 
 Toujours à la recherche de la perméabilité de ses langues multiples, sa démarche établit des ponts entre le mouvement, l’écriture, la musique et le moment présent. Il s’intéresse, dans son travail chorégraphique et performatif, au corps comme outil de transmutation et de guérison.
 
-Parallèlement à sa carrière d'artiste, il oeuvre comme thérapeute énergétique. Il se forme en Reiki, utilise l'antenne de Lecher -- outil de radiesthésie -- et termine la formation de la technique du Vide MT.
+Parallèlement à sa carrière d'artiste, il oeuvre comme thérapeute énergétique. Il crée une puissante alchimie avec ses outils énergétiques de prédilection : le Reiki, l'antenne de Lecher et la technique du Vide MT.
