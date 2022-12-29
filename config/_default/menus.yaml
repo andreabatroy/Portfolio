@@ -10,7 +10,7 @@ main:
   - name: À propos
     url: a-propos/
     weight: 20
-  - name: Page d'Artiste
+  - name: Artiste
     url: /project/page-d-artiste
     weight: 30
   - name: Soins énergétiques
