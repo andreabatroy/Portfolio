@@ -23,5 +23,5 @@ Je suis danseur, écrivain et musicien. Parallèlement à ma carrière d'artiste
 
 Vous trouverez ici ma page d'artiste contenant tous mes projets artistiques actuels et futurs, ainsi que ma page de soins énergétiques contenant toute l'information pour prendre rendez-vous et investir dans votre bien-être dès maintenant.
 
-Bienvenue dans cette alchimie de l'Être !
+Bienvenue dans l'alchimie de l'Être !
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
